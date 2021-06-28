@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-Bold.eot');
+    src: local('Arimo Bold'), local('Arimo-Bold'),
+        url('../fontsArimo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-Bold.woff2') format('woff2'),
+        url('../fontsArimo-Bold.woff') format('woff'),
+        url('../fontsArimo-Bold.ttf') format('truetype'),
+        url('../fontsArimo-Bold.svg#Arimo-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-Regular.eot');
+    src: local('Arimo Regular'), local('Arimo-Regular'),
+        url('../fontsArimo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-Regular.woff2') format('woff2'),
+        url('../fontsArimo-Regular.woff') format('woff'),
+        url('../fontsArimo-Regular.ttf') format('truetype'),
+        url('../fontsArimo-Regular.svg#Arimo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-BoldItalic.eot');
+    src: local('Arimo Bold Italic'), local('Arimo-BoldItalic'),
+        url('../fontsArimo-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-BoldItalic.woff2') format('woff2'),
+        url('../fontsArimo-BoldItalic.woff') format('woff'),
+        url('../fontsArimo-BoldItalic.ttf') format('truetype'),
+        url('../fontsArimo-BoldItalic.svg#Arimo-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-Italic.eot');
+    src: local('Arimo Italic'), local('Arimo-Italic'),
+        url('../fontsArimo-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-Italic.woff2') format('woff2'),
+        url('../fontsArimo-Italic.woff') format('woff'),
+        url('../fontsArimo-Italic.ttf') format('truetype'),
+        url('../fontsArimo-Italic.svg#Arimo-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-Italic_1.eot');
+    src: local('Arimo Italic'), local('Arimo-Italic'),
+        url('../fontsArimo-Italic_1.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-Italic_1.woff2') format('woff2'),
+        url('../fontsArimo-Italic_1.woff') format('woff'),
+        url('../fontsArimo-Italic_1.ttf') format('truetype'),
+        url('../fontsArimo-Italic_1.svg#Arimo-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-Regular_1.eot');
+    src: local('Arimo Regular'), local('Arimo-Regular'),
+        url('../fontsArimo-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-Regular_1.woff2') format('woff2'),
+        url('../fontsArimo-Regular_1.woff') format('woff'),
+        url('../fontsArimo-Regular_1.ttf') format('truetype'),
+        url('../fontsArimo-Regular_1.svg#Arimo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-Medium.eot');
+    src: local('Arimo Medium'), local('Arimo-Medium'),
+        url('../fontsArimo-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-Medium.woff2') format('woff2'),
+        url('../fontsArimo-Medium.woff') format('woff'),
+        url('../fontsArimo-Medium.ttf') format('truetype'),
+        url('../fontsArimo-Medium.svg#Arimo-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arimo';
+    src: url('../fontsArimo-MediumItalic.eot');
+    src: local('Arimo Medium Italic'), local('Arimo-MediumItalic'),
+        url('../fontsArimo-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fontsArimo-MediumItalic.woff2') format('woff2'),
+        url('../fontsArimo-MediumItalic.woff') format('woff'),
+        url('../fontsArimo-MediumItalic.ttf') format('truetype'),
+        url('../fontsArimo-MediumItalic.svg#Arimo-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
